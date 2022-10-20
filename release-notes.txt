@@ -1,0 +1,6 @@
+v1.1.0 @wplaat
+– Back button is now working
+– Portrait mode activated
+
+v1.0.0 @wplaat
+- Initial release

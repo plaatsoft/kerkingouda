@@ -1,3 +1,6 @@
+v1.3.0 @wplaat
+- Added missing app icon
+
 v1.2.0 @wplaat
 – Added support for pdf content
 – Added support for email content

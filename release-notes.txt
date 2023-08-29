@@ -1,3 +1,9 @@
+v1.4.0 @bplaat
+- Bump target Android version to latest
+- Add missing .gitignore file
+- Remove unused res/xml files
+- Remove unnecessary ConstraintLayout dependency
+
 v1.3.0 @wplaat
 - Added missing app icon
 

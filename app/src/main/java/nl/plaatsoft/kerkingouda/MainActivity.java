@@ -1,15 +1,13 @@
 package nl.plaatsoft.kerkingouda;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-
-import android.app.Activity;
 import android.view.KeyEvent;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
-
 import java.util.Arrays;
 
 public class MainActivity extends Activity {
